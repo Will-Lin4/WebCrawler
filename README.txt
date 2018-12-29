@@ -1,0 +1,1 @@
+The purpose of this program is to provide a user interface (through Swing) and allow for web crawling. The program will download HTML, CSS, and JS files of a particular website and properly link them together for offline viewing. 
